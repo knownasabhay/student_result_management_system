@@ -6,18 +6,27 @@ This project allows users to add, view, search, modify, and delete student recor
 🧩 Features
 
 ➕ Add new student records
+
 📖 View all student results
+
 🔍 Search for a student by roll number or name
+
 ✏️ Modify or update existing records
+
 ❌ Delete records from the file
+
 💾 File handling for data persistence (student_records.dat)
+
 📊 Automatic grade assignment and total calculation
+
 🧠 Technologies Used
 
 Language: C
 
 Compiler: GCC
+
 File Handling: Binary data files (fopen, fwrite, fread)
+
 IDE (Recommended): Code::Blocks / VS Code / Turbo C
 
 ⚙️ How to Run
@@ -25,6 +34,7 @@ IDE (Recommended): Code::Blocks / VS Code / Turbo C
 Clone this repository
 
 git clone https://github.com/<your-username>/student_result_management_system.git
+
 
 Open the project folder and compile the code:
 
